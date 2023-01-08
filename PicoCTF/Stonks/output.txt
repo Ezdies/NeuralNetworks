@@ -1,0 +1,6 @@
+Welcome back to the trading app!
+
+What would you like to do?
+1) Buy some stonks!
+2) View my portfolio
+Goodbye!

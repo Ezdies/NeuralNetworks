@@ -1,0 +1,3 @@
+grep pico output.txt > flag.txt
+
+output.txt | grep pico

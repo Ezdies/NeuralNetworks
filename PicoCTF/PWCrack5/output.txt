@@ -1,0 +1,2 @@
+Welcome back... your flag, user:
+picoCTF{h45h_sl1ng1ng_40f26f81}

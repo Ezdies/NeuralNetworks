@@ -1,0 +1,1 @@
+echo "grep -r pico big-zip-files | awk '{print $NF}' > output.txt" > command.txt
