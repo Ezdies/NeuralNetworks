@@ -1,7 +1,0 @@
-Please md5 hash the text between quotes, excluding the quotes: 'a cheap motel'
-Answer: 
-af6017d59681b2fb853df01e535002c9
-Incorrect. Try again?
-Answer: 
-2618168879acd1ad4b1553a6d142d3a666e77c03
-Incorrect. Goodbye. Better luck next time!
